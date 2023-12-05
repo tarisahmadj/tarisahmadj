@@ -17,13 +17,13 @@ Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
 <br/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/1805-nyan-goat.gif" width="30px"/> See you on social media..
-<a href="https://www.facebook.com/irfansyah.avatar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/irfansy_ah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/irfannsyah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/irfansy_ah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+## <a href="https://www.facebook.com/irfansyah.avatar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/tarisahmd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tarisahmadj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## <a href="https://twitter.com/irfansy_ah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=sayakanikan&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tarisahmadj&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- ### <img src="https://cdn3.emoji.gg/emojis/1865-codercat.gif" width="30px"> Next stop
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> --!>
