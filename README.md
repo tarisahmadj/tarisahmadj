@@ -11,9 +11,9 @@ Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
 <br/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/3379-rainbowsheeptrain.gif" width="30px"> Github Stats
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayakanikan&show_icons=true&theme=radical)
+![Taris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayakanikan&show_icons=true&theme=radical)
 
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sayakanikan&layout=compact&theme=radical)
+![Taris's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sayakanikan&layout=compact&theme=radical)
 <br/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/1805-nyan-goat.gif" width="30px"/> See you on social media..
