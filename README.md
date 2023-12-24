@@ -1,6 +1,6 @@
 # <img src="https://pfps.gg/assets/banners/7899-mountains.gif" width="30px"> Happy to see you!
 
-<img align='right' src="https://media.giphy.com/media/ZmdErsWqppgMo/giphy.gif" width="330">
+<img align='right' src="https://pfps.gg/assets/banners/7899-mountains.gif" width="330">
 Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
 
 👀 Happy to learn any web developing stuff <br/> 💻 Javascript and PHP maniac <br/> 🚀 Play bored games to boost mood <br/> 💪🏼📽 Sport and movie addict (sometimes) <br/> 🧭 +62 / UTC+07:00 /IDR <br/> 🐳 Open for any interesting opportunity
