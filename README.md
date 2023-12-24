@@ -1,4 +1,4 @@
-# <img src="https://pfps.gg/assets/banners/7899-mountains.gif" width="30px"> Happy to see you!
+# <img src="https://cdn3.emoji.gg/emojis/7852-popurin-yay.gif" width="30px"> Happy to see you!
 
 <img align='right' src="https://pfps.gg/assets/banners/7899-mountains.gif" width="330">
 Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
