@@ -3,7 +3,13 @@
 <img align='right' src="https://pfps.gg/assets/banners/7899-mountains.gif" width="330">
 Hi, I’m a undergraduate computer science student from <b>Indonesia</b>
 
-👀 Happy to learn any web developing stuff <br/> 💻 Javascript and PHP maniac <br/> 🚀 Play bored games to boost mood <br/> 💪🏼📽 Sport and movie addict (sometimes) <br/> 🧭 +62 / UTC+07:00 /IDR <br/> 🐳 Open for any interesting opportunity
+<p>👀 <strong>Always eager to expand my skills in web development</strong></p>
+<p>💻 <strong>Enthusiastically immersed in JavaScript and PHP</strong>, with a deep passion for building scalable, efficient applications using <strong>Laravel</strong> and <strong>Vue.js</strong></p>
+<p>🚀 <strong>Board games fan</strong>—my way to recharge and ignite creativity</p>
+<p>💪🏼📽 <strong>Sports and movie lover</strong>—balancing life with a mix of physical activity and cinematic inspiration</p>
+<p>🧭 Based in <strong>Indonesia (+62), UTC+07:00</strong></p>
+<p>🐳 <strong>Excited for new and challenging opportunities</strong>—let’s collaborate and build something impactful together!</p>
+
 <br/>
 
 ## <img src="https://cdn3.emoji.gg/emojis/4017-derpbounce.gif" width="30px"> Current Tech Stack
